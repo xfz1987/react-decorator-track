@@ -1,0 +1,22 @@
+{
+  "name": "react-decorator-track",
+  "version": "1.0.0",
+  "description": "react track",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com:xfz1987/react-decorator-track.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "xfz1987",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xfz1987/react-decorator-track/issues"
+  },
+  "homepage": "https://github.com/xfz1987/react-decorator-track#readme"
+}
